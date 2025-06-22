@@ -5,7 +5,7 @@ Ovládání:
 Klikání na tlačítka a ESC pro vrácení zpět
 
 Obsahuje:
-Hlavní obrazovku
-Inventář
-Okno pro obchodování
-Tracker pro Pána Jeskyně s ukazateli hladu, žízně a unávy
+- Hlavní obrazovku
+- Inventář
+- Okno pro obchodování
+- Tracker pro Pána Jeskyně s ukazateli hladu, žízně a unávy
